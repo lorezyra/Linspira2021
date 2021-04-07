@@ -1,4 +1,4 @@
 /terraform.tfvars
 /new_user_credentials.csv
-*.hcl
 /.terraform/providers
+*.hcl
