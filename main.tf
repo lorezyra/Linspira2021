@@ -32,7 +32,12 @@ variable "awsActSecret" {
 # - configure DNS
 # - configure ACM
 # - configure cloudfront
+# - configure cognito
 # - add AppSync: GraphQL
 # - add DB: dynamoDB
 # - add lambda scripts for backend management
+# - add ? step functions?
 # - build API GW
+# - setup ElasticSearch
+# - setup GitHub link to AWS
+# - init process to reload website from GitHub every 24 hours.

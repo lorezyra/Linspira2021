@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"> 
+	<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+	
+	<url>
+		<loc>http://linspira.com/</loc>
+		<changefreq>weekly</changefreq>
+		<priority>1.00</priority>
+		<image:image>
+			<image:loc>http://linspira.com/images/Linspira-FULLmarkLogo.png</image:loc>
+			<image:caption>LINSPIRA</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://linspira.com/discover/</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.80</priority>
+		<PageMap xmlns="http://www.google.com/schemas/sitemap-pagemap/1.0">
+			<DataObject type="document" id="LINSPIRA">
+				<Attribute name="name">Discover new ideas</Attribute>
+			</DataObject>
+		</PageMap>
+	</url>
+	<url>
+		<loc>http://linspira.com/mission</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>http://linspira.com/team</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>http://linspira.com/help</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>http://linspira.com/roadMap</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>http://linspira.com/pressReleases</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>http://linspira.com/tos</loc>
+		<changefreq>yearly</changefreq>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>http://linspira.com/privacy</loc>
+		<changefreq>yearly</changefreq>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>http://linspira.com/guidelines</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>http://linspira.com/find</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.60</priority>
+		<PageMap xmlns="http://www.google.com/schemas/sitemap-pagemap/1.0">
+			<DataObject type="document" id="LINSPIRA">
+				<Attribute name="Search">Search Linspira</Attribute>
+			</DataObject>
+		</PageMap>
+	</url>
+</urlset>

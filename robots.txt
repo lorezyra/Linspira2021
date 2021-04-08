@@ -1,0 +1,23 @@
+User-agent: Mediapartners-Google*
+Disallow:
+
+User-agent: *
+Disallow: /assets/
+Disallow: /css/
+Disallow: /img/
+Disallow: /admin/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /Connections/
+Disallow: /fonts/
+Disallow: /packages/
+Disallow: /build/
+Disallow: /crypt/
+Disallow: /packages/
+Disallow: /ext/
+Disallow: /js/
+Disallow: /resources/
+Disallow: /sass/
+Disallow: /theme/
+
+Sitemap: http://linspira.com/sitemap.xml
